@@ -41,7 +41,7 @@ $(document).ready(function () {
     loop: true,
   });
 
-  var typed = new Typed(".typing-2", {
+  var typed2 = new Typed(".typing-2", {
     strings: ["La creatividad me divierte."],
     typeSpeed: 100,
     backSpeed: 60,
