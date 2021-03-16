@@ -739,13 +739,13 @@ footer span a:hover {
     margin: 20px 0;
     font-size: 22px;
   }
-  /* .navbar.sticky {
+  .navbar.sticky {
     position: fixed;
     top: 0;
     padding: 15px 0;
     background: rgb(20, 130, 220);
     box-shadow: 0px 2px 15px #999;
-  } */
+  }
 
   .home .home-content .text-2 {
     font-size: 70px;
