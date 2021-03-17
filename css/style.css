@@ -338,8 +338,9 @@ section .title::after {
   font-size: 1.35em;
 }
 .about .about-content .right .text {
-  font-size: 1.35em;
+  font-size: 1.05em;
   font-weight: 600;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 .about .about-content .right .text span {
@@ -789,7 +790,8 @@ footer span a:hover {
   .about .about-content .right .text {
     font-size: 1.15em;
     font-weight: 600;
-    /* margin-bottom: 10px; */
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
   .about .about-content .right .text span {
     color: rgb(20, 130, 220);
