@@ -458,6 +458,10 @@ section .title::after {
 .skills .skills-content .right .bars {
   margin-bottom: 15px;
 }
+.skills .skills-content .right img {
+  height: 60px;
+  width: 60px;
+}
 .skills .skills-content .right .info {
   display: flex;
   margin-bottom: 5px;
