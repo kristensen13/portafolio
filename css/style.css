@@ -339,13 +339,13 @@ section .title::after {
 }
 .about .about-content .right .text {
   font-size: 1.35em;
-  font-family: "Antic Slab", sans-serif;
   font-weight: 600;
   margin-bottom: 10px;
 }
 .about .about-content .right .text span {
   color: rgb(20, 130, 220);
   font-size: 1.35em;
+  font-weight: 600;
   letter-spacing: 0.1em;
 }
 .about .about-content .right p {
