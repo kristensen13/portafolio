@@ -255,7 +255,6 @@ section .title::after {
 .home {
   display: flex;
   background: url("../images/uno.jpg") no-repeat center;
-  /* opacity: 0.85; */
   height: 100vh;
   color: #fff;
   min-height: 500px;
@@ -865,3 +864,7 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+/* .services .serv-content .card .serv1 img {
+  width: 70px;
+  height: 70px;
+} */
