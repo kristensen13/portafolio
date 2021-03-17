@@ -113,6 +113,7 @@ section .title::after {
   color: rgb(20, 130, 220);
   transition: all 1.3s ease;
   font-weight: 600;
+  margin-left: -14px;
 }
 .navbar.sticky .logo a span {
   color: #fff;
@@ -254,6 +255,7 @@ section .title::after {
 .home {
   display: flex;
   background: url("../images/uno.jpg") no-repeat center;
+  /* opacity: 0.85; */
   height: 100vh;
   color: #fff;
   min-height: 500px;
@@ -345,8 +347,8 @@ section .title::after {
 }
 .about .about-content .right .text span {
   color: rgb(20, 130, 220);
-  font-size: 1.05em;
-  font-weight: 600;
+  /* font-size: 1.05em;
+  font-weight: 600; */
   letter-spacing: 0.1em;
 }
 .about .about-content .right p {
