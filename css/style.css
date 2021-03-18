@@ -132,6 +132,8 @@ section .title::after {
 }
 .navbar .menu li a:hover {
   color: rgb(20, 130, 220);
+  transform: scale(1.1);
+  transition: all 0.3s ease;
 }
 .navbar.sticky .menu li a:hover {
   color: #fff;
