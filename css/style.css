@@ -842,7 +842,7 @@ footer span a:hover {
   }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 667px) {
   .max-width {
     padding: 0 23px;
   }
@@ -860,16 +860,38 @@ footer span a:hover {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 666px) {
   .home .home-content .text-2 {
-    font-size: 50px;
+    font-size: 2rem;
   }
   .home .home-content .text-3 {
-    font-size: 27px;
+    font-size: 1.4rem;
   }
+  .contratame img {
+    padding: 0px 0px 0px 0px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 1.25rem;
+  }
+  .navbar .logo a {
+    font-size: 1.4rem;
+  }
+  .navbar.sticky .logo a {
+    color: rgb(9, 58, 99);
+  }
+  .navbar .logo a span {
+    color: rgb(20, 130, 220);
+    transition: all 2.6s ease;
+    margin-left: -8px;
+  }
+
   .about .about-content .right .text,
   .skills .skills-content .left .text {
     font-size: 19px;
+  }
+  .about .about-content .left img {
+    width: 95%;
+    height: 80%;
   }
   .contact .right form .fields {
     flex-direction: column;
