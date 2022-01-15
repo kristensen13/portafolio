@@ -855,6 +855,10 @@ footer span a:hover {
   .home .home-content a {
     font-size: 20px;
   }
+  .contratame img {
+    align-items: center;
+    width: 2.5rem;
+  }
   .services .serv-content .card {
     width: 100%;
   }
