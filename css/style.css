@@ -256,7 +256,7 @@ section .title::after {
     -webkit-animation-iteration-count: 1;
     animation-iteration-count: 1;
 }
-/* secion home */
+/* section home */
 .home {
     display: flex;
     background: url("../images/uno.jpg") no-repeat center;
@@ -304,6 +304,7 @@ section .title::after {
     color: rgb(20, 130, 220);
     background: none;
 }
+
 /*Social*/
 
 /*Secion de bienvenido - intro*/
